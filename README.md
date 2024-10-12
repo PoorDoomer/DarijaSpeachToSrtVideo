@@ -16,7 +16,7 @@ Inspired by Marouane53, this project is a simple script that uses the Wit API to
         Go to the app's settings and navigate to the "Management" section.
         You will find the "Server Access Token" there, which serves as your API key.
 
-##Running the script
+## Running the script
 
 To run the script, use:
    ```bash
